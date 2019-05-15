@@ -1,0 +1,9 @@
+/* CSS for AliyunDocXBlock */
+
+.aliyundocxblock_block .count {
+    font-weight: bold;
+}
+
+.aliyundocxblock_block p {
+    cursor: pointer;
+}
